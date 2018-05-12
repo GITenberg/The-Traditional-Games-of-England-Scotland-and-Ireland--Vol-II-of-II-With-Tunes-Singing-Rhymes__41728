@@ -1,0 +1,32 @@
+_repo: The-Traditional-Games-of-England-Scotland-and-Ireland--Vol-II-of-II-With-Tunes-Singing-Rhymes__41728
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41728-h/images/cover2.png
+creator:
+  author:
+    agent_name: Gomme, Alice Bertha
+    aliases:
+    - Gomme, Alice Bertha Merck, Lady
+    - Merck, Alice Bertha
+    - Gomme, Alice B. (Alice Bertha)
+    birthdate: 1853
+    deathdate: 1938
+    gutenberg_agent_id: '41330'
+    url: http://www.gutenberg.org/2009/agents/41330
+description: ''
+gutenberg_issued: '2012-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Great Britain'
+- !lcsh 'Games -- Great Britain'
+- !lcc 'GR'
+title: "The Traditional Games of England, Scotland, and Ireland (Vol 2 of 2)\r\nWith\
+  \ Tunes, Singing-Rhymes, and Methods of Playing etc."
+url: http://www.gutenberg.org/ebooks/41728
